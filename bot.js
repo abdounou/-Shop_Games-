@@ -830,7 +830,7 @@ client.on("message", (message) => {
  .setThumbnail(client.user.avatarURL)     
  .setDescription("Add me" + `
  **
-رابط البوت | https://discordapp.com/api/oauth2/authorize?client_id=521352883845988362&permissions=8&scope=bot
+رابط البوت | https://discordapp.com/api/oauth2/authorize?client_id=527184194980544532&permissions=0&scope=bot
  **
 `);
   message.author.sendEmbed(embed);
@@ -847,7 +847,7 @@ client.on("message", (message) => {
  .setThumbnail(client.user.avatarURL)     
  .setDescription(" ***welcome To server support*** " + `
  **
-رابط السيرفر | https://discord.gg/FJHjD5j
+رابط السيرفر | https://discord.gg/Tgh5E2
  **
 `);
   message.author.sendEmbed(embed);
